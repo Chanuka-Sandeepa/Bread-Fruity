@@ -58,7 +58,7 @@ const Index = () => {
           <div className="flex-1">
             <div className="rounded-2xl overflow-hidden shadow-2xl shadow-[#5a7052]/10">
               <img 
-                src="/src/image/Bread-Fruity.jpg" 
+                src="https://soulfood.nl/wp-content/uploads/2020/11/website1.jpg" 
                 alt="Breadfruit Cookies" 
                 className="w-full h-auto object-cover rounded-2xl transition-transform hover:scale-105 duration-300"
               />
@@ -119,7 +119,7 @@ const Index = () => {
             <div className="flex-1">
               <div className="bg-white p-8 rounded-2xl shadow-lg">
                 <img 
-                  src="/src/image/Bread-Fruity.jpg" 
+                  src="https://soulfood.nl/wp-content/uploads/2020/11/website1.jpg" 
                   alt="Breadfruit Cookie Pack" 
                   className="w-full h-auto rounded-xl"
                 />
